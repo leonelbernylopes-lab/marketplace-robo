@@ -1,0 +1,48 @@
+{
+  "ps4 slim 500gb": {
+    "resale_price": 850,
+    "keywords": [
+      "ps4",
+      "slim",
+      "500"
+    ]
+  },
+  "ps4": {
+    "resale_price": 700,
+    "keywords": [
+      "ps4"
+    ]
+  },
+  "air fryer 4l": {
+    "resale_price": 180,
+    "keywords": [
+      "air fryer",
+      "fritadeira"
+    ]
+  },
+  "furadeira": {
+    "resale_price": 220,
+    "keywords": [
+      "furadeira",
+      "parafusadeira"
+    ]
+  },
+  "jbl": {
+    "resale_price": 350,
+    "keywords": [
+      "jbl",
+      "caixa de som"
+    ]
+  },
+  "smart tv": {
+    "resale_price": 650,
+    "keywords": [
+      "smart tv",
+      "tv"
+    ]
+  },
+  "default": {
+    "resale_price": 0,
+    "keywords": []
+  }
+}

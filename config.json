@@ -1,0 +1,16 @@
+{
+  "search_terms": [
+    "ps4",
+    "air fryer",
+    "furadeira",
+    "caixa de som jbl",
+    "smart tv"
+  ],
+  "max_buy_price": 500,
+  "min_profit": 80,
+  "min_margin": 0.3,
+  "search_radius_km": 30,
+  "scrolls_per_search": 4,
+  "delay_seconds": 2.5,
+  "headless": false
+}
